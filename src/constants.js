@@ -1,0 +1,1 @@
+export const PROFILE_API = "https://randomuser.me/api/?page=1&results=1&seed=";
